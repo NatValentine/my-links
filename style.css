@@ -147,24 +147,13 @@ main {
     border: none;
 }
 
-.toast {
-
-    position: fixed;
-
-    bottom: 24px;
-    left: 50%;
-
-    transform: translateX(-50%);
-
-    background: #222;
-
-    color: white;
-
-    padding: 12px 20px;
-
+#lang-toggle {
+    display: inline-flex;
+    float: right;
+    background: var(--bg);
+    color: var(--text);
+    border: none;
     border-radius: 999px;
-
-    opacity: 0;
-
-    transition: .2s;
+    padding: 4px;
+    margin: 8px;
 }
