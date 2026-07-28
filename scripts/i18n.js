@@ -1,3 +1,5 @@
+import { translations } from "./translations.js";
+
 let currentLang = localStorage.getItem("lang") || "en";
 
 applyLanguage(currentLang);

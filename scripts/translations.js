@@ -1,16 +1,16 @@
-const translations = {
+export const translations = {
   en: {
     subtitle: "Developer · Maker · UX",
 
     description: "I build software, games and weird little projects.",
 
-    portfolio: "Portfolio",
+    portfolio: "🚀 Portfolio",
     portfolioDesc: "Projects, experiments and case studies.",
 
-    games: "Games",
+    games: "🎮 Games",
     gamesDesc: "Game jams and personal projects.",
 
-    blog: "Blog",
+    blog: "✍️ Blog",
     blogDesc: "Random thoughts about games.",
 
     current: "Currently working on...",
@@ -35,14 +35,14 @@ const translations = {
 
     description: "Desarrollo software, juegos y pequeños proyectos extraños.",
 
-    portfolio: "Portfolio",
+    portfolio: "🚀 Portfolio",
     portfolioDesc: "Proyectos, experimentos y casos de estudio.",
 
-    games: "Juegos",
+    games: "🎮 Juegos",
     gamesDesc: "Game jams y proyectos personales.",
 
-    blog: "Blog",
-    blogDesc: "Pensamientos aleatorios sobre videojuegos.",
+    blog: "✍️ Blog",
+    blogDesc: "Pensamientos varios sobre videojuegos. En inglés.",
 
     current: "Actualmente trabajando en...",
 
